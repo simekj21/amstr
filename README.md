@@ -1,4 +1,4 @@
-# logex
+# Amstr - RESTAURANT IN AMSTERDAM
 
 ## Project setup
 ```
