@@ -1,24 +1,9 @@
 # Amstr - RESTAURANT IN AMSTERDAM
+List of restaurants in Amsterdam and get basic info about each.
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+![image](https://user-images.githubusercontent.com/43533811/211519964-2ef32f44-6c40-4187-b91a-964dcd28a2f0.png)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+> Detail window
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![image](https://user-images.githubusercontent.com/43533811/211520182-1f9f83bf-3b38-4958-9b99-36653719774a.png)
